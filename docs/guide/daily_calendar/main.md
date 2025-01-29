@@ -1,4 +1,4 @@
-## Chuyển qua màn hình khác
+## Chuyển qua lại giữa các ngày
 
 __Vuốt sang trái__ hoặc __vuốt sang phải__ để di chuyển qua ngày kế tiếp hoặc ngày trước đó.
 
