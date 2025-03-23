@@ -1,1 +1,20 @@
-[{"id":"syst00h3x3qzv1ey00000001","title":"Ngày nghỉ có hưởng lương","isDisplayed":true,"shortDescription":"Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết","description":"# Theo Bộ luật lao động (2019)\n\n## Điều 112. Nghỉ lễ, tết\r\n\n1. Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết sau đây:\r\n\n- a) Tết Dương lịch: 01 ngày (ngày 01 tháng 01 dương lịch);\r\n\n- b) Tết Âm lịch: 05 ngày;\r\n\n- c) Ngày Chiến thắng: 01 ngày (ngày 30 tháng 4 dương lịch);\r\n\n- d) Ngày Quốc tế lao động: 01 ngày (ngày 01 tháng 5 dương lịch);\r\n\n- đ) Quốc khánh: 02 ngày (ngày 02 tháng 9 dương lịch và 01 ngày liền kề trước hoặc sau);\r\n\n- e) Ngày Giỗ Tổ Hùng Vương: 01 ngày (ngày 10 tháng 3 âm lịch)","createdAt":"2025-01-23T03:12:53.202","updatedAt":"2025-01-23T03:20:05.350"},{"id":"syst00h3x3yhz8re00000004","title":"Ngày lễ khác trong năm","isDisplayed":true,"shortDescription":"","description":"","createdAt":"2025-01-23T03:20:26.895","updatedAt":"2025-01-23T03:20:26.895"}]
+[
+  {
+    "id": "syst00h3x3qzv1ey00000001",
+    "title": "Ngày nghỉ có hưởng lương",
+    "isDisplayed": true,
+    "shortDescription": "Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết",
+    "description": "# Theo Bộ luật lao động (2019)\n\n## Điều 112. Nghỉ lễ, tết\r\n\n1. Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết sau đây:\r\n\n- a) Tết Dương lịch: 01 ngày (ngày 01 tháng 01 dương lịch);\r\n\n- b) Tết Âm lịch: 05 ngày;\r\n\n- c) Ngày Chiến thắng: 01 ngày (ngày 30 tháng 4 dương lịch);\r\n\n- d) Ngày Quốc tế lao động: 01 ngày (ngày 01 tháng 5 dương lịch);\r\n\n- đ) Quốc khánh: 02 ngày (ngày 02 tháng 9 dương lịch và 01 ngày liền kề trước hoặc sau);\r\n\n- e) Ngày Giỗ Tổ Hùng Vương: 01 ngày (ngày 10 tháng 3 âm lịch)",
+    "createdAt": "2025-01-23T03:12:53.202",
+    "updatedAt": "2025-01-23T03:20:05.350"
+  },
+  {
+    "id": "syst00h3x3yhz8re00000004",
+    "title": "Ngày lễ khác trong năm",
+    "isDisplayed": true,
+    "shortDescription": "",
+    "description": "",
+    "createdAt": "2025-01-23T03:20:26.895",
+    "updatedAt": "2025-01-23T03:20:26.895"
+  }
+]
