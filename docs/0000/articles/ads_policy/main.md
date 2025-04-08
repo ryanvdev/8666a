@@ -2,11 +2,13 @@
 
 ## 1. Số lượng và thời gian quảng cáo
 
-![Quảng cáo chỉ hiển thị khi đạt 100%](images/ad_status.jpg)
+![Quảng cáo chỉ hiển thị khi đạt 100%](images/ads/index.json)
 
 ### 1.1 Quảng cáo 1
 
 - Hiển thị __1 lần sau mỗi 9 giờ__ - Tránh việc hiển thị quảng mỗi lần bạn mở ứng dụng gây phiền.
+
+![Quảng cáo chỉ hiển thị khi đạt 100%](images/ad_status.jpg)
 
 ### 1.2 Quảng cáo 2
 
