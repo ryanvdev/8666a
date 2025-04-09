@@ -1,20 +1,21 @@
+// green
 import { generateDefaultScreenshot, ThemeConfigDetail } from "../../../types";
 import { segmentDarkLight } from "../../../util/segment_dark_light";
 
 const config: ThemeConfigDetail = {
-  key: 'rosewood',
+  key: 'green',
   isDark: false,
-  title: 'Gổ Từ Đàn',
-  createdAt: new Date(2025, 4, 8),
+  title: 'Xanh Lá Cây',
+  createdAt: new Date(2025, 4, 10),
   price: 10.0,
   colorGroups: [
-    'blue', 'red', 'orange',
+    'green',
   ],
   screenshots: generateDefaultScreenshot(),
   themeData: {
     isDark: false,
-    scheme: 'rosewood',
+    scheme: 'green',
   }
 }
 
-export const rosewoodTheme: ThemeConfigDetail[] = segmentDarkLight(config);
+export const greenTheme: ThemeConfigDetail[] = segmentDarkLight(config);

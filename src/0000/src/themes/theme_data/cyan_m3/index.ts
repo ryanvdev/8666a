@@ -5,7 +5,7 @@ const config: ThemeConfigDetail = {
   key: 'cyan_m3',
   isDark: false,
   title: 'Lục Lam Tự Do',
-  createdAt: new Date(2025, 4, 6),
+  createdAt: new Date(2025, 4, 7),
   price: 10.0,
   colorGroups: [
     'blue', 'violet',

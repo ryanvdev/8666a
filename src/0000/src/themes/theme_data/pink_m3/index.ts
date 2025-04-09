@@ -2,10 +2,10 @@ import { generateDefaultScreenshot, ThemeConfigDetail } from "../../../types";
 import { segmentDarkLight } from "../../../util/segment_dark_light";
 
 const config: ThemeConfigDetail = {
-  key: 'rosewood',
+  key: 'pink_m3',
   isDark: false,
-  title: 'Gổ Từ Đàn',
-  createdAt: new Date(2025, 4, 8),
+  title: 'Hồng Tự Do',
+  createdAt: new Date(2025, 4, 10),
   price: 10.0,
   colorGroups: [
     'blue', 'red', 'orange',
@@ -13,8 +13,8 @@ const config: ThemeConfigDetail = {
   screenshots: generateDefaultScreenshot(),
   themeData: {
     isDark: false,
-    scheme: 'rosewood',
+    scheme: 'pinkM3',
   }
 }
 
-export const rosewoodTheme: ThemeConfigDetail[] = segmentDarkLight(config);
+export const pinkM3Theme: ThemeConfigDetail[] = segmentDarkLight(config);
