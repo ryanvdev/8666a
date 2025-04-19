@@ -43,13 +43,6 @@ export interface ThemeConfigDetail extends ThemeConfig {
 }
 
 
-const defScreenshots: string[] = [
-  'daily.jpg',
-  'monthly.jpg',
-  'yearly.jpg',
-];
 
-export function generateDefaultScreenshot(): string[] {
-  return [...defScreenshots];
-}
+
 

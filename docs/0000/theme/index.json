@@ -1,1 +1,236 @@
-[{"key":"pink_m3_dark","isDark":true,"title":"Hồng Tự Do","colorGroups":["blue","red","orange"],"createdAt":"2025-05-09T17:00:00.000Z","price":10,"screenshots":["daily.jpg","monthly.jpg","yearly.jpg"]},{"key":"green_dark","isDark":true,"title":"Xanh Lá Cây","colorGroups":["green"],"createdAt":"2025-05-09T17:00:00.000Z","price":10,"screenshots":["daily.jpg","monthly.jpg","yearly.jpg"]},{"key":"pink_m3_light","isDark":false,"title":"Hồng Tự Do","colorGroups":["blue","red","orange"],"createdAt":"2025-05-09T17:00:00.000Z","price":10,"screenshots":["daily.jpg","monthly.jpg","yearly.jpg"]},{"key":"green_light","isDark":false,"title":"Xanh Lá Cây","colorGroups":["green"],"createdAt":"2025-05-09T17:00:00.000Z","price":10,"screenshots":["daily.jpg","monthly.jpg","yearly.jpg"]},{"key":"rosewood_dark","isDark":true,"title":"Gổ Từ Đàn","colorGroups":["blue","red","orange"],"createdAt":"2025-05-07T17:00:00.000Z","price":10,"screenshots":["daily.jpg","monthly.jpg","yearly.jpg"]},{"key":"rosewood_light","isDark":false,"title":"Gổ Từ Đàn","colorGroups":["blue","red","orange"],"createdAt":"2025-05-07T17:00:00.000Z","price":10,"screenshots":["daily.jpg","monthly.jpg","yearly.jpg"]},{"key":"cyan_m3_dark","isDark":true,"title":"Lục Lam Tự Do","colorGroups":["blue","violet"],"createdAt":"2025-05-06T17:00:00.000Z","price":10,"screenshots":["daily.jpg","monthly.jpg","yearly.jpg"]},{"key":"cyan_m3_light","isDark":false,"title":"Lục Lam Tự Do","colorGroups":["blue","violet"],"createdAt":"2025-05-06T17:00:00.000Z","price":10,"screenshots":["daily.jpg","monthly.jpg","yearly.jpg"]},{"key":"blue_dark","isDark":true,"title":"Xanh Đại Dương","colorGroups":["blue"],"createdAt":"2025-05-05T17:00:00.000Z","price":10,"screenshots":["daily.jpg","monthly.jpg","yearly.jpg"]},{"key":"blue_light","isDark":false,"title":"Xanh Đại Dương","colorGroups":["blue"],"createdAt":"2025-05-05T17:00:00.000Z","price":10,"screenshots":["daily.jpg","monthly.jpg","yearly.jpg"]}]
+[
+  {
+    "key": "aqua_blue_light",
+    "isDark": false,
+    "title": "Xanh lam nhạt",
+    "colorGroups": [],
+    "createdAt": "2025-04-19T15:51:49.720Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "aqua_blue_dark",
+    "isDark": true,
+    "title": "Xanh lam nhạt",
+    "colorGroups": [],
+    "createdAt": "2025-04-19T15:51:49.720Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "indigo_light",
+    "isDark": false,
+    "title": "Màu chàm",
+    "colorGroups": [],
+    "createdAt": "2025-04-19T15:46:26.759Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "indigo_dark",
+    "isDark": true,
+    "title": "Màu chàm",
+    "colorGroups": [],
+    "createdAt": "2025-04-19T15:46:26.759Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "blue_m_3_light",
+    "isDark": false,
+    "title": "Xanh dương GM3",
+    "colorGroups": [],
+    "createdAt": "2025-04-19T15:40:28.278Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "blue_m_3_dark",
+    "isDark": true,
+    "title": "Xanh dương GM3",
+    "colorGroups": [],
+    "createdAt": "2025-04-19T15:40:28.278Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "green_m_3_light",
+    "isDark": false,
+    "title": "Xanh lá GM3",
+    "colorGroups": [],
+    "createdAt": "2025-04-19T15:36:04.781Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "green_m_3_dark",
+    "isDark": true,
+    "title": "Xanh lá GM3",
+    "colorGroups": [],
+    "createdAt": "2025-04-19T15:36:04.781Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "teal_m_3_light",
+    "isDark": false,
+    "title": "Xanh mòng két GM3",
+    "colorGroups": [],
+    "createdAt": "2025-04-19T15:35:32.730Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "teal_m_3_dark",
+    "isDark": true,
+    "title": "Xanh mòng két GM3",
+    "colorGroups": [],
+    "createdAt": "2025-04-19T15:35:32.730Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "purple_m_3_light",
+    "isDark": false,
+    "title": "Tím GM3",
+    "colorGroups": [],
+    "createdAt": "2025-04-19T15:34:53.946Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "purple_m_3_dark",
+    "isDark": true,
+    "title": "Tím GM3",
+    "colorGroups": [],
+    "createdAt": "2025-04-19T15:34:53.946Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "brand_blue_light",
+    "isDark": false,
+    "title": "Màu xanh thương hiệu",
+    "colorGroups": [],
+    "createdAt": "2025-04-19T15:13:57.316Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "brand_blue_dark",
+    "isDark": true,
+    "title": "Màu xanh thương hiệu",
+    "colorGroups": [],
+    "createdAt": "2025-04-19T15:13:57.316Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "black_white_light",
+    "isDark": false,
+    "title": "Trắng  & Đen",
+    "colorGroups": [],
+    "createdAt": "2025-04-19T13:16:03.062Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "black_white_dark",
+    "isDark": true,
+    "title": "Trắng  & Đen",
+    "colorGroups": [],
+    "createdAt": "2025-04-19T13:16:03.062Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "rosewood_light",
+    "isDark": false,
+    "title": "Gổ Từ Đàn",
+    "colorGroups": ["blue", "red", "orange"],
+    "createdAt": "2025-04-19T12:41:10.079Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "rosewood_dark",
+    "isDark": true,
+    "title": "Gổ Từ Đàn",
+    "colorGroups": ["blue", "red", "orange"],
+    "createdAt": "2025-04-19T12:41:10.079Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "green_light",
+    "isDark": false,
+    "title": "Xanh Lá Cây",
+    "colorGroups": ["green"],
+    "createdAt": "2025-04-10T12:12:10.079Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "green_dark",
+    "isDark": true,
+    "title": "Xanh Lá Cây",
+    "colorGroups": ["green"],
+    "createdAt": "2025-04-10T12:12:10.079Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "pink_m3_light",
+    "isDark": false,
+    "title": "Hồng Tự Do",
+    "colorGroups": ["blue", "red", "orange"],
+    "createdAt": "2025-04-09T12:41:10.079Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "pink_m3_dark",
+    "isDark": true,
+    "title": "Hồng Tự Do",
+    "colorGroups": ["blue", "red", "orange"],
+    "createdAt": "2025-04-09T12:41:10.079Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "cyan_m3_light",
+    "isDark": false,
+    "title": "Lục Lam Tự Do",
+    "colorGroups": ["blue", "violet"],
+    "createdAt": "2025-04-07T12:12:10.079Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "cyan_m3_dark",
+    "isDark": true,
+    "title": "Lục Lam Tự Do",
+    "colorGroups": ["blue", "violet"],
+    "createdAt": "2025-04-07T12:12:10.079Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "blue_light",
+    "isDark": false,
+    "title": "Xanh Đại Dương",
+    "colorGroups": ["blue"],
+    "createdAt": "2025-04-06T12:12:10.079Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "blue_dark",
+    "isDark": true,
+    "title": "Xanh Đại Dương",
+    "colorGroups": ["blue"],
+    "createdAt": "2025-04-06T12:12:10.079Z",
+    "price": 2,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  }
+]
