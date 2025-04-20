@@ -5,8 +5,8 @@ import { segmentDarkLight } from "../../../util/segment_dark_light";
 const config: ThemeConfigDetail = {
   key: "black_white",
   isDark: false,
-  title: "Trắng  & Đen",
-  createdAt: new Date("2025-04-19T13:16:03.062Z"),
+  title: "Trắng & Đen",
+  createdAt: new Date("2026-04-20T17:39:01.249Z"),
   price: defPrices[0],
   colorGroups: [],
   screenshots: generateDefaultScreenshot(),

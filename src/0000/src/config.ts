@@ -5,7 +5,7 @@ export const defScreenshots: string[] = [
 ];
 
 export const defPrices:number[] = [
-  2.0,
+  3.0,
   20.0
 ];
 

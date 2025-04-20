@@ -56,6 +56,8 @@ export const listRemainingScheme = [
   // 'tealM3',
   // 'greenM3',
   // 'greenM3',
+  // 'blackWhite',
+  // 'blackWhite',
   // 'blue',
   // 'blue',
   // 'rosewood',
@@ -66,6 +68,4 @@ export const listRemainingScheme = [
   // 'pinkM3',
   // 'green',
   // 'green',
-  // 'blackWhite',
-  // 'blackWhite',
 ];

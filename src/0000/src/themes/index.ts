@@ -1,5 +1,4 @@
 import { ThemeConfigDetail } from "../types";
-import { blackWhiteTheme } from "./theme_data/black_white";
 import { blueTheme } from "./theme_data/blue";
 import { cyanM3Theme } from "./theme_data/cyan_m3";
 import { greenTheme } from "./theme_data/green";
@@ -17,5 +16,4 @@ export const listThemeConfigDetail: ThemeConfigDetail[] = [
   ...cyanM3Theme,
   ...pinkM3Theme,
   ...greenTheme,
-  ...blackWhiteTheme,
 ];

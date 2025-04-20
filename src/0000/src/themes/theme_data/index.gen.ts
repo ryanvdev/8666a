@@ -7,6 +7,7 @@ import { aquaBlueTheme } from "./aqua_blue";
 import { blueM3Theme } from "./blue_m_3";
 import { tealM3Theme } from "./teal_m_3";
 import { greenM3Theme } from "./green_m_3";
+import { blackWhiteTheme } from "./black_white";
 
 export const listGenThemeConfigDetail: ThemeConfigDetail[] = [
   // Generated export
@@ -17,4 +18,5 @@ export const listGenThemeConfigDetail: ThemeConfigDetail[] = [
   ...blueM3Theme,
   ...tealM3Theme,
   ...greenM3Theme,
+  ...blackWhiteTheme,
 ];
