@@ -47,5 +47,5 @@ __=> Em công khai mức thu nhập là để nói rằng những gói đăng k�
 
 - Việc quản lý gói Premium là do google thu phí và quản lý. Vậy nên, mọi người có thể hủy gói __Lịch VN Premium__ giống như cách hủy gói __Youtube Premium__ 
 
-![alt text](images/cancel_subscription.gif)
+![Cách hủy gói Premium](images/cancel_subscription.gif)
 

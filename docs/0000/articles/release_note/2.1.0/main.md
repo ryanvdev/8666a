@@ -1,43 +1,26 @@
-Release note 2.1.0
+### __1. Yêu cầu thêm màu sắc, chủ đề__
 
-```text
-Microsoft Windows [Version 10.0.26100.3476]
-(c) Microsoft Corporation. All rights reserved.
+![Yêu cầu thêm màu sắc, chủ đề](images/review_theme_store.jpg)
 
- 4:02:23,36 D:\data\documents\lich_vn_admin
->_ live-server docs  
-Serving "docs" at http://127.0.0.1:8080
-Ready for changes
-GET /favicon.ico 404 2.034 ms - 150
-^C
- 4:57:51,24 D:\data\documents\lich_vn_admin
->_ live-server docs
-Serving "docs" at http://127.0.0.1:8080
-Ready for changes
-Change detected docs\0000\articles\release_note
-Change detected docs\0000\articles\release_note\2.1.0
-Change detected docs\0000\articles\release_note\2.1.0\main.md
-Change detected docs\0000\articles\release_note\2.1.0\main.md
-Change detected docs\0000\articles\release_note\0.0.0
-GET /0000/articles/release_note/main.md 404 14.960 ms - 173
-GET /0000/articles/release_note/main.md 404 1.979 ms - 173
-Change detected docs\0000\articles\release_note\2.1.0\images
-Change detected docs\0000\articles\release_note\2.1.0\images\ads
-Change detected docs\0000\articles\release_note\2.1.0\images\ads\images
-Change detected docs\0000\articles\release_note\2.1.0\images\ads\images\ad_status.jpg
-Change detected docs\0000\articles\release_note\2.1.0\images\ads\images\ad_status.jpg
-Change detected docs\0000\articles\release_note\2.1.0\images\ads\images\chi_phi.png
-Change detected docs\0000\articles\release_note\2.1.0\images\ads\images\chi_phi.png
-Change detected docs\0000\articles\release_note\2.1.0\images\ad_status.jpg
-Change detected docs\0000\articles\release_note\2.1.0\images\chi_phi.png
-Change detected docs\0000\articles\release_note\2.1.0\images\ads\index.json
-Change detected docs\0000\articles\release_note\2.1.0\images\ads\images\review_1.jpg
-Change detected docs\0000\articles\release_note\2.1.0\images\chi_phi.png
-Change detected docs\0000\articles\release_note\2.1.0\images\review_1.jpg
-Change detected docs\0000\articles\release_note\2.1.0\images\review_1.jpg
-Change detected docs\0000\articles\release_note\2.1.0\main.md
+![Cửa hàng chủ đề](images/theme_store.jpg)
 
-```
+### __2. Có chủ đề riêng cho những bạn dùng màn hình OLED__
 
+![Thêm chủ đề cho amoled](images/review_amoled.jpg)
 
-![text](images/ads/index.json)
+![Trắng & Đen](images/oled.jpg)
+
+### __3. Ra mắt tính năng Premium với giá chỉ vài nghìn VND__
+
+![Yêu cầu thêm premium](images/review_premium.jpg)
+
+![Premium - Bỏ quảng cáo](images/premium.jpg)
+
+### __4. Cải thiện giao diện lịch tháng bắt mắt, dễ nhìn hơn__
+
+![Cải thiện giao diện lịch tháng, font chữ](images/review_monthly_calendar.jpg)
+
+![Vuốt qua trái hoặc vuốt qua phải để xem thêm](images/monthly_calendar/index.json)
+
+Mọi người có thể thấy nó hơi xấu lúc đầu. Tuy nhiên, khi nhìn quen mắt thì thấy nó sẽ rất đẹp.
+
