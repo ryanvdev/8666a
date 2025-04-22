@@ -9,6 +9,7 @@ import { tealM3Theme } from "./teal_m_3";
 import { greenM3Theme } from "./green_m_3";
 import { blackWhiteTheme } from "./black_white";
 import { greysTheme } from "./greys";
+import { sakuraTheme } from "./sakura";
 
 export const listGenThemeConfigDetail: ThemeConfigDetail[] = [
   // Generated export
@@ -21,4 +22,5 @@ export const listGenThemeConfigDetail: ThemeConfigDetail[] = [
   ...greenM3Theme,
   ...blackWhiteTheme,
   ...greysTheme,
+  ...sakuraTheme,
 ];
