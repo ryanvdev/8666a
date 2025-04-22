@@ -3,17 +3,17 @@ import { ThemeConfigDetail } from "../../../types";
 import { segmentDarkLight } from "../../../util/segment_dark_light";
 
 const config: ThemeConfigDetail = {
-  key: "black_white",
+  key: "greys",
   isDark: false,
-  title: "Trắng & Đen",
-  createdAt: new Date("2025-04-22T14:28:01.053Z"),
+  title: "Màu xám",
+  createdAt: new Date("2025-04-22T14:28:59.513Z"),
   price: defPrices[0],
   colorGroups: [],
   screenshots: generateDefaultScreenshot(),
   themeData: {
     isDark: false,
-    scheme: "blackWhite",
+    scheme: "greys",
   },
 };
 
-export const blackWhiteTheme: ThemeConfigDetail[] = segmentDarkLight(config);
+export const greysTheme: ThemeConfigDetail[] = segmentDarkLight(config);

@@ -1,10 +1,28 @@
 [
   {
+    "key": "greys_light",
+    "isDark": false,
+    "title": "Màu xám",
+    "colorGroups": [],
+    "createdAt": "2025-04-22T14:28:59.513Z",
+    "price": 3,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
+    "key": "greys_dark",
+    "isDark": true,
+    "title": "Màu xám",
+    "colorGroups": [],
+    "createdAt": "2025-04-22T14:28:59.513Z",
+    "price": 3,
+    "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
+  },
+  {
     "key": "black_white_light",
     "isDark": false,
     "title": "Trắng & Đen",
     "colorGroups": [],
-    "createdAt": "2026-04-20T17:39:01.249Z",
+    "createdAt": "2025-04-22T14:28:01.053Z",
     "price": 3,
     "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
   },
@@ -13,7 +31,7 @@
     "isDark": true,
     "title": "Trắng & Đen",
     "colorGroups": [],
-    "createdAt": "2026-04-20T17:39:01.249Z",
+    "createdAt": "2025-04-22T14:28:01.053Z",
     "price": 3,
     "screenshots": ["daily.jpg", "monthly.jpg", "yearly.jpg"]
   },
